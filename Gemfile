@@ -43,3 +43,5 @@ end #PostgreSQL gem in production for deployment to Heroku:
 
 # To use debugger
 # gem 'debugger'
+
+gem 'bootstrap-sass', '2.0.0'
